@@ -4,4 +4,4 @@
 A chat application using Firebase authentication and storage
 
 
-![ChatImage]()
+![ChatImage](https://github.com/Porkwaffle/FlashChat/blob/master/chat.png)
